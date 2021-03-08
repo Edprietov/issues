@@ -1,2 +1,2 @@
 # issues
-Example of first application using Elixir
+First application using Elixir --
